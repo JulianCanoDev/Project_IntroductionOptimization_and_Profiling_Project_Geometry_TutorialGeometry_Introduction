@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: f116c4df700f531438883df4af28072a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cannon
+    100004: Cannon001
+    100006: Cannon002
+    100008: Cannon003
+    100010: Core
+    100012: Object006
+    100014: Object007
+    100016: Object008
+    100018: Object009
+    100020: Tube001
+    100022: Tube002
+    100024: Cannon008
+    100026: Cannon009
+    100028: Cannon010
+    100030: Cannon011
+    100032: Core003
+    100034: Core004
+    100036: Object035
+    100038: Object036
+    100040: Object037
+    100042: Object038
+    100044: Tube032
+    100046: Tube033
+    100048: Canon_01
+    100050: Canon_02
+    100052: Canon_03
+    100054: Canon_04
+    100056: Cannon_Core
+    400000: //RootNode
+    400002: Cannon
+    400004: Cannon001
+    400006: Cannon002
+    400008: Cannon003
+    400010: Core
+    400012: Object006
+    400014: Object007
+    400016: Object008
+    400018: Object009
+    400020: Tube001
+    400022: Tube002
+    400024: Cannon008
+    400026: Cannon009
+    400028: Cannon010
+    400030: Cannon011
+    400032: Core003
+    400034: Core004
+    400036: Object035
+    400038: Object036
+    400040: Object037
+    400042: Object038
+    400044: Tube032
+    400046: Tube033
+    400048: Canon_01
+    400050: Canon_02
+    400052: Canon_03
+    400054: Canon_04
+    400056: Cannon_Core
+    2100000: 01 - Default
+    2100002: 'Material #0'
+    2100004: 07 - Default
+    2300000: Cannon
+    2300002: Cannon001
+    2300004: Cannon002
+    2300006: Cannon003
+    2300008: Core
+    2300010: Object006
+    2300012: Object007
+    2300014: Object008
+    2300016: Object009
+    2300018: Tube001
+    2300020: Tube002
+    2300022: //RootNode
+    2300024: Cannon008
+    2300026: Cannon009
+    2300028: Cannon010
+    2300030: Cannon011
+    2300032: Core003
+    2300034: Core004
+    2300036: Object035
+    2300038: Object036
+    2300040: Object037
+    2300042: Object038
+    2300044: Tube032
+    2300046: Tube033
+    2300048: Canon_01
+    2300050: Canon_02
+    2300052: Canon_03
+    2300054: Canon_04
+    2300056: Cannon_Core
+    3300000: Cannon
+    3300002: Cannon001
+    3300004: Cannon002
+    3300006: Cannon003
+    3300008: Core
+    3300010: Object006
+    3300012: Object007
+    3300014: Object008
+    3300016: Object009
+    3300018: Tube001
+    3300020: Tube002
+    3300022: //RootNode
+    3300024: Cannon008
+    3300026: Cannon009
+    3300028: Cannon010
+    3300030: Cannon011
+    3300032: Core003
+    3300034: Core004
+    3300036: Object035
+    3300038: Object036
+    3300040: Object037
+    3300042: Object038
+    3300044: Tube032
+    3300046: Tube033
+    3300048: Canon_01
+    3300050: Canon_02
+    3300052: Canon_03
+    3300054: Canon_04
+    3300056: Cannon_Core
+    4300000: Cannon001
+    4300002: Cannon002
+    4300004: Cannon003
+    4300006: Object006
+    4300008: Cannon
+    4300010: Object007
+    4300012: Object008
+    4300014: Object009
+    4300016: Core
+    4300018: Tube001
+    4300020: Tube002
+    4300022: Core003
+    4300024: Cannon008
+    4300026: Object035
+    4300028: Cannon009
+    4300030: Object036
+    4300032: Tube032
+    4300034: Cannon010
+    4300036: Object037
+    4300038: Cannon011
+    4300040: Object038
+    4300042: Tube033
+    4300044: Core004
+    4300046: Canon_02
+    4300048: Canon_03
+    4300050: Canon_01
+    4300052: Canon_04
+    4300054: Cannon_Core
+    7400000: Idle
+    7400002: Fire
+    7400004: FireDone
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: e141f5163d2003546b90e0d2740e2ca9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fire
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 320
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: f84b945de038e1340906bd01aa129d69
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box003
+    100004: Box004
+    100006: Hedra001
+    100008: Box008
+    100010: Box469
+    100012: Box470
+    100014: Plane001
+    100016: Object025
+    100018: Box471
+    100020: Box472
+    100022: Box473
+    100024: Box474
+    100026: Hedra002
+    100028: Object026
+    100030: Object027
+    100032: Hedra003
+    100034: Hedra004
+    400000: //RootNode
+    400002: Box003
+    400004: Box004
+    400006: Hedra001
+    400008: Box008
+    400010: Box469
+    400012: Box470
+    400014: Plane001
+    400016: Object025
+    400018: Box471
+    400020: Box472
+    400022: Box473
+    400024: Box474
+    400026: Hedra002
+    400028: Object026
+    400030: Object027
+    400032: Hedra003
+    400034: Hedra004
+    2100000: No Name
+    2100002: 01 - Default
+    2100004: 'Material #1'
+    2300000: //RootNode
+    2300002: Box003
+    2300004: Box004
+    2300006: Hedra001
+    2300008: Box008
+    2300010: Box469
+    2300012: Box470
+    2300014: Plane001
+    2300016: Object025
+    2300018: Box471
+    2300020: Box472
+    2300022: Box473
+    2300024: Box474
+    2300026: Hedra002
+    2300028: Object026
+    2300030: Object027
+    2300032: Hedra003
+    2300034: Hedra004
+    3300000: //RootNode
+    3300002: Box003
+    3300004: Box004
+    3300006: Hedra001
+    3300008: Box008
+    3300010: Box469
+    3300012: Box470
+    3300014: Plane001
+    3300016: Object025
+    3300018: Box471
+    3300020: Box472
+    3300022: Box473
+    3300024: Box474
+    3300026: Hedra002
+    3300028: Object026
+    3300030: Object027
+    3300032: Hedra003
+    3300034: Hedra004
+    4300000: Box003
+    4300002: Box004
+    4300004: Hedra001
+    4300006: Box008
+    4300008: Box470
+    4300010: Box469
+    4300012: Plane001
+    4300014: Object025
+    4300016: Box471
+    4300018: Hedra002
+    4300020: Box472
+    4300022: Box473
+    4300024: Object026
+    4300026: Box474
+    4300028: Object027
+    4300030: Hedra003
+    4300032: Hedra004
+    6400000: Box003
+    6400002: Box004
+    6400004: Hedra001
+    6400006: Box008
+    6400008: Box469
+    6400010: Box470
+    6400012: Plane001
+    6400014: Object025
+    6400016: Box471
+    6400018: Box472
+    6400020: Box473
+    6400022: Box474
+    6400024: Hedra002
+    6400026: Object026
+    6400028: Object027
+    6400030: Hedra003
+    6400032: Hedra004
+    6400034: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: cc9faca307fa76042a24e19f58ee4ff6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1'
+    second: {fileID: 2100000, guid: 6928ea800c767c7428bb94c5b3170109, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
